@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  midi2
+//  midi notes
 //
 //  Created by Eric Maddy on 1/8/20.
 //  Copyright © 2020 Eric Maddy. All rights reserved.
